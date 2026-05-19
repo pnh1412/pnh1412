@@ -43,10 +43,10 @@ Right now, I’m rebuilding my foundations and learning again to become a softwa
   <img src="https://github-readme-stats.vercel.app/api?username=phamnguyenhau1412&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com?user=phamnguyenhau1412&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamnguyenhau1412&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
